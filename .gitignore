@@ -1,0 +1,11 @@
+# Carpeta de compilación de CMake
+build/
+
+# Ejecutables y objetos
+*.exe
+*.o
+*.obj
+
+# Archivos temporales del editor
+.vscode/
+*.user
