@@ -1,6 +1,6 @@
 Sistema de Facturación Chapinas:
 
-Proyecto final del curso de **Algoritmos** — Universidad Mariano Gálvez de Guatemala (UMG).
+Proyecto final del curso de **Algoritmos** - Universidad Mariano Gálvez de Guatemala (UMG).
 Aplicación de escritorio con interfaz gráfica, desarrollada en **C++ con Qt 6**, para la empresa
 ficticia Representaciones "Chapinas", C.A. (venta de artículos de limpieza al mayoreo).
 
